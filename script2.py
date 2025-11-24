@@ -3,7 +3,7 @@ import aiohttp
 import xml.etree.ElementTree as ET
 from crawl4ai import AsyncWebCrawler
 
-SITEMAP_URL = "https://edition.cnn.com/sitemap/news.xml"   # <--- your sitemap URL
+SITEMAP_URL = "https://www.aajtak.in/rssfeeds/news-sitemap.xml"   # <--- your sitemap URL
 OUTPUT_DIR = "pages"
 
 import os
