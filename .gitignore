@@ -1,0 +1,47 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.log
+
+# Virtual environments
+.venv/
+venv/
+
+# Environment / secrets
+.env
+.env.*
+*.env
+
+# Bytecode & cache
+*.sqlite3
+*.db
+
+# IDE / editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Testing / coverage
+.coverage
+htmlcov/
+.cache/
+pytest_cache/
+
+# Migrations artifacts (optional, keep actual migration scripts)
+alembic.ini
+
+# Docker
+*.pid
+docker-compose.override.yml
+
+# Logs & data
+logs/
+tmp/

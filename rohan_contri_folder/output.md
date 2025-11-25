@@ -80,22 +80,22 @@ As extremism researchers [warned people](https://bsky.app/profile/lbaum94.bsky.s
 The same day, screenshots from the video were used by everyone from elected lawmakers and senior government officials to law enforcement personnel, activists, [podcasters](https://podcasts.apple.com/us/channel/wired/id6442457166), and conspiracy theorists on X to push particular narratives about what was to blame for the latest [mass shooting](https://www.wired.com/story/shooting-minnesota-melissa-hortman-vance-boelter/).
 In one of the primary narratives erroneously pushed immediately after the shooting, conservative influencers and politicians claimed that the perpetrator’s gender identity was at fault. Information about the shooter, who identified as transgender and changed her name to Robin Westman when she was 17 years old, spread like wildfire on X, pushed by a huge list of right-wing figures, including [Georgia representative Marjorie Taylor Greene](https://x.com/RepMTG/status/1960783783118168425), [right-wing podcaster Benny Johnson](https://x.com/bennyjohnson/status/1960754578250445056), and [Musk himself](https://x.com/elonmusk/status/1960806599217570083). X’s own AI-powered chatbot Grok [refuted](https://x.com/grok/status/1960807105302290859) the idea that transgender people disproportionately carry out mass shootings.
 Most Popular
-  * [![This Hacker Conference Installed a Literal Antivirus Monitoring System](https://media.wired.com/photos/69161e05960c08b5b39d1cb4/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.wired.com/story/this-hacker-conference-installed-a-literal-anti-virus-monitoring-system/#intcid=_wired-right-rail_8327ad24-76c1-4c25-8a5a-de6ef108cb6c_popular4-2)
-Security
-[This Hacker Conference Installed a Literal Antivirus Monitoring System](https://www.wired.com/story/this-hacker-conference-installed-a-literal-anti-virus-monitoring-system/#intcid=_wired-right-rail_8327ad24-76c1-4c25-8a5a-de6ef108cb6c_popular4-2)
-By Violet Blue
-  * [![NASA Finally Weighs In on the Origin of 3I/ATLAS](https://media.wired.com/photos/691e4c4fcd00e362e9e89aeb/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.wired.com/story/nasa-confirms-that-3i-atlas-is-an-interstellar-comet/#intcid=_wired-right-rail_8327ad24-76c1-4c25-8a5a-de6ef108cb6c_popular4-2)
-Science
-[NASA Finally Weighs In on the Origin of 3I/ATLAS](https://www.wired.com/story/nasa-confirms-that-3i-atlas-is-an-interstellar-comet/#intcid=_wired-right-rail_8327ad24-76c1-4c25-8a5a-de6ef108cb6c_popular4-2)
-By Jorge Garay
-  * [![The Best Early Black Friday Deals to Snag Before They Expire](https://media.wired.com/photos/691773c9469b98252c4f5858/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.wired.com/story/early-black-friday-deals-2025-1/#intcid=_wired-right-rail_8327ad24-76c1-4c25-8a5a-de6ef108cb6c_popular4-2)
-Deals
-[The Best Early Black Friday Deals to Snag Before They Expire](https://www.wired.com/story/early-black-friday-deals-2025-1/#intcid=_wired-right-rail_8327ad24-76c1-4c25-8a5a-de6ef108cb6c_popular4-2)
-By Louryn Strampe
-  * [![MediaWorld Accidentally Sold iPads for 15 Euros. Then It Asked for Them Back](https://media.wired.com/photos/6920acb12e95b0710d7d0ea3/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.wired.com/story/mediaworld-accidentally-sold-ipads-for-euro15-then-it-asked-for-them-back/#intcid=_wired-right-rail_8327ad24-76c1-4c25-8a5a-de6ef108cb6c_popular4-2)
+  * [![The Best Chef’s Knives to Chop Anything in the Kitchen](https://media.wired.com/photos/689195e6c4053708fb0b4508/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.wired.com/gallery/the-best-chefs-knives/#intcid=_wired-right-rail_e2c0d74b-1481-49d3-97b2-373bde7084a4_popular4-2)
+Kitchen
+[The Best Chef’s Knives to Chop Anything in the Kitchen](https://www.wired.com/gallery/the-best-chefs-knives/#intcid=_wired-right-rail_e2c0d74b-1481-49d3-97b2-373bde7084a4_popular4-2)
+By Molly Higgins
+  * [![MediaWorld Accidentally Sold iPads for 15 Euros. Then It Asked for Them Back](https://media.wired.com/photos/6920acb12e95b0710d7d0ea3/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.wired.com/story/mediaworld-accidentally-sold-ipads-for-euro15-then-it-asked-for-them-back/#intcid=_wired-right-rail_e2c0d74b-1481-49d3-97b2-373bde7084a4_popular4-2)
 Gear News and Events
-[MediaWorld Accidentally Sold iPads for 15 Euros. Then It Asked for Them Back](https://www.wired.com/story/mediaworld-accidentally-sold-ipads-for-euro15-then-it-asked-for-them-back/#intcid=_wired-right-rail_8327ad24-76c1-4c25-8a5a-de6ef108cb6c_popular4-2)
+[MediaWorld Accidentally Sold iPads for 15 Euros. Then It Asked for Them Back](https://www.wired.com/story/mediaworld-accidentally-sold-ipads-for-euro15-then-it-asked-for-them-back/#intcid=_wired-right-rail_e2c0d74b-1481-49d3-97b2-373bde7084a4_popular4-2)
 By Elena Betti
+  * [![NASA Finally Weighs In on the Origin of 3I/ATLAS](https://media.wired.com/photos/691e4c4fcd00e362e9e89aeb/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.wired.com/story/nasa-confirms-that-3i-atlas-is-an-interstellar-comet/#intcid=_wired-right-rail_e2c0d74b-1481-49d3-97b2-373bde7084a4_popular4-2)
+Science
+[NASA Finally Weighs In on the Origin of 3I/ATLAS](https://www.wired.com/story/nasa-confirms-that-3i-atlas-is-an-interstellar-comet/#intcid=_wired-right-rail_e2c0d74b-1481-49d3-97b2-373bde7084a4_popular4-2)
+By Jorge Garay
+  * [![Pornhub Is Urging Tech Giants to Enact Device-Based Age Verification](https://media.wired.com/photos/691b725179b8ea64196b38cf/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.wired.com/story/pornhub-is-urging-tech-giants-to-enact-device-based-age-verification/#intcid=_wired-right-rail_e2c0d74b-1481-49d3-97b2-373bde7084a4_popular4-2)
+Culture
+[Pornhub Is Urging Tech Giants to Enact Device-Based Age Verification](https://www.wired.com/story/pornhub-is-urging-tech-giants-to-enact-device-based-age-verification/#intcid=_wired-right-rail_e2c0d74b-1481-49d3-97b2-373bde7084a4_popular4-2)
+By Jason Parham
 
 
 Many X users, like [right-wing commentator Nick Sortor,](https://x.com/nicksortor/status/1960797670924292485) claimed the attack was motivated by hatred of God, citing “all the anti-Christian and and anti-God writings” on the shooter’s guns. [FBI director Kash Patel](https://x.com/FBIDirectorKash/status/1961124620595052673) seemed to boost these claims by posting that the shooting was being investigated as a “hate crime targeting Catholics.” Conspiracy theorist Laura Loomer [alleged](https://x.com/LauraLoomer/status/1960878634161594554) that the shooter was “radicalized by leftism and Islam.” Others cited anti-Israel phrases written on the weapons as proof the shooting was antisemitic.
@@ -104,22 +104,22 @@ The platform itself even helped boost some of these claims in the summaries it p
 The reality, [according to extremism](https://www.npr.org/2025/08/29/nx-s1-5522038/minneapolis-shooting-motive) experts who are still trawling through the shooter's writings and digital footprint, is that there simply appears to have been no overarching ideology motivating the shooter. Instead, some have determined that the shooter was likely part of a growing group of [nihilistic violent extremists](https://www.unomaha.edu/ncite/news/2025/08/nve-landing-page.php) whose sole motivation is the violence itself.
 “They clearly state several times they are not doing this for any ideology or cause, they are simply doing this for the sake of violence, for their desire for notoriety, to know what it feels like to be one of their idols, to cause chaos and see the fear in the eyes of their victims,” Marc-André Argentino, an extremism researcher, wrote on [Bluesky](https://bsky.app/profile/maargentino.com/post/3lxk66n47b325) in reference to the diaries the shooter posted to YouTube hours before the attack.
 Most Popular
-  * [![This Hacker Conference Installed a Literal Antivirus Monitoring System](https://media.wired.com/photos/69161e05960c08b5b39d1cb4/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.wired.com/story/this-hacker-conference-installed-a-literal-anti-virus-monitoring-system/#intcid=_wired-right-rail_8327ad24-76c1-4c25-8a5a-de6ef108cb6c_popular4-2)
-Security
-[This Hacker Conference Installed a Literal Antivirus Monitoring System](https://www.wired.com/story/this-hacker-conference-installed-a-literal-anti-virus-monitoring-system/#intcid=_wired-right-rail_8327ad24-76c1-4c25-8a5a-de6ef108cb6c_popular4-2)
-By Violet Blue
-  * [![NASA Finally Weighs In on the Origin of 3I/ATLAS](https://media.wired.com/photos/691e4c4fcd00e362e9e89aeb/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.wired.com/story/nasa-confirms-that-3i-atlas-is-an-interstellar-comet/#intcid=_wired-right-rail_8327ad24-76c1-4c25-8a5a-de6ef108cb6c_popular4-2)
-Science
-[NASA Finally Weighs In on the Origin of 3I/ATLAS](https://www.wired.com/story/nasa-confirms-that-3i-atlas-is-an-interstellar-comet/#intcid=_wired-right-rail_8327ad24-76c1-4c25-8a5a-de6ef108cb6c_popular4-2)
-By Jorge Garay
-  * [![The Best Early Black Friday Deals to Snag Before They Expire](https://media.wired.com/photos/691773c9469b98252c4f5858/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.wired.com/story/early-black-friday-deals-2025-1/#intcid=_wired-right-rail_8327ad24-76c1-4c25-8a5a-de6ef108cb6c_popular4-2)
-Deals
-[The Best Early Black Friday Deals to Snag Before They Expire](https://www.wired.com/story/early-black-friday-deals-2025-1/#intcid=_wired-right-rail_8327ad24-76c1-4c25-8a5a-de6ef108cb6c_popular4-2)
-By Louryn Strampe
-  * [![MediaWorld Accidentally Sold iPads for 15 Euros. Then It Asked for Them Back](https://media.wired.com/photos/6920acb12e95b0710d7d0ea3/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.wired.com/story/mediaworld-accidentally-sold-ipads-for-euro15-then-it-asked-for-them-back/#intcid=_wired-right-rail_8327ad24-76c1-4c25-8a5a-de6ef108cb6c_popular4-2)
+  * [![The Best Chef’s Knives to Chop Anything in the Kitchen](https://media.wired.com/photos/689195e6c4053708fb0b4508/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.wired.com/gallery/the-best-chefs-knives/#intcid=_wired-right-rail_e2c0d74b-1481-49d3-97b2-373bde7084a4_popular4-2)
+Kitchen
+[The Best Chef’s Knives to Chop Anything in the Kitchen](https://www.wired.com/gallery/the-best-chefs-knives/#intcid=_wired-right-rail_e2c0d74b-1481-49d3-97b2-373bde7084a4_popular4-2)
+By Molly Higgins
+  * [![MediaWorld Accidentally Sold iPads for 15 Euros. Then It Asked for Them Back](https://media.wired.com/photos/6920acb12e95b0710d7d0ea3/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.wired.com/story/mediaworld-accidentally-sold-ipads-for-euro15-then-it-asked-for-them-back/#intcid=_wired-right-rail_e2c0d74b-1481-49d3-97b2-373bde7084a4_popular4-2)
 Gear News and Events
-[MediaWorld Accidentally Sold iPads for 15 Euros. Then It Asked for Them Back](https://www.wired.com/story/mediaworld-accidentally-sold-ipads-for-euro15-then-it-asked-for-them-back/#intcid=_wired-right-rail_8327ad24-76c1-4c25-8a5a-de6ef108cb6c_popular4-2)
+[MediaWorld Accidentally Sold iPads for 15 Euros. Then It Asked for Them Back](https://www.wired.com/story/mediaworld-accidentally-sold-ipads-for-euro15-then-it-asked-for-them-back/#intcid=_wired-right-rail_e2c0d74b-1481-49d3-97b2-373bde7084a4_popular4-2)
 By Elena Betti
+  * [![NASA Finally Weighs In on the Origin of 3I/ATLAS](https://media.wired.com/photos/691e4c4fcd00e362e9e89aeb/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.wired.com/story/nasa-confirms-that-3i-atlas-is-an-interstellar-comet/#intcid=_wired-right-rail_e2c0d74b-1481-49d3-97b2-373bde7084a4_popular4-2)
+Science
+[NASA Finally Weighs In on the Origin of 3I/ATLAS](https://www.wired.com/story/nasa-confirms-that-3i-atlas-is-an-interstellar-comet/#intcid=_wired-right-rail_e2c0d74b-1481-49d3-97b2-373bde7084a4_popular4-2)
+By Jorge Garay
+  * [![Pornhub Is Urging Tech Giants to Enact Device-Based Age Verification](https://media.wired.com/photos/691b725179b8ea64196b38cf/1:1/w_120%2Ch_120%2Cc_limit/undefined)](https://www.wired.com/story/pornhub-is-urging-tech-giants-to-enact-device-based-age-verification/#intcid=_wired-right-rail_e2c0d74b-1481-49d3-97b2-373bde7084a4_popular4-2)
+Culture
+[Pornhub Is Urging Tech Giants to Enact Device-Based Age Verification](https://www.wired.com/story/pornhub-is-urging-tech-giants-to-enact-device-based-age-verification/#intcid=_wired-right-rail_e2c0d74b-1481-49d3-97b2-373bde7084a4_popular4-2)
+By Jason Parham
 
 
 Argentino also warned that nihilistic violent extremists can be performative, their messages and writings designed in part to trick people into boosting specific phrases out of context.
@@ -145,52 +145,52 @@ Reporter
 
 Topics[twitter](https://www.wired.com/tag/twitter/)[Social Media](https://www.wired.com/tag/social-media/)[Elon Musk](https://www.wired.com/tag/elon-musk/)[X](https://www.wired.com/tag/x/)[shooting](https://www.wired.com/tag/shooting/)[YouTube](https://www.wired.com/tag/youtube/)
 Read More
-[![Teachers Get Death Threats After MAGA Claims Their Halloween Costumes Mocked Charlie Kirk](https://media.wired.com/photos/690a3df4f025e344ecdee038/16:9/w_640%2Cc_limit/undefined)](https://www.wired.com/story/arizona-teachers-death-threats-charlie-kirk/#intcid=_wired-article-bottom-recirc_4e80911f-430c-4a0b-9a40-5af39e2be28d_roberta-similarity1)
-[Teachers Get Death Threats After MAGA Claims Their Halloween Costumes Mocked Charlie Kirk](https://www.wired.com/story/arizona-teachers-death-threats-charlie-kirk/#intcid=_wired-article-bottom-recirc_4e80911f-430c-4a0b-9a40-5af39e2be28d_roberta-similarity1)
+[![Teachers Get Death Threats After MAGA Claims Their Halloween Costumes Mocked Charlie Kirk](https://media.wired.com/photos/690a3df4f025e344ecdee038/16:9/w_640%2Cc_limit/undefined)](https://www.wired.com/story/arizona-teachers-death-threats-charlie-kirk/#intcid=_wired-article-bottom-recirc_5a132013-df7e-4e5a-81e7-ff080f1148cc_roberta-similarity1)
+[Teachers Get Death Threats After MAGA Claims Their Halloween Costumes Mocked Charlie Kirk](https://www.wired.com/story/arizona-teachers-death-threats-charlie-kirk/#intcid=_wired-article-bottom-recirc_5a132013-df7e-4e5a-81e7-ff080f1148cc_roberta-similarity1)
 A Turning Point USA official inaccurately claimed a high school's math department wore Halloween costumes that mocked Charlie Kirk. Those teachers are now facing a flood of online attacks and death threats.
 David Gilbert
-[![FBI Warns of Criminals Posing as ICE, Urges Agents to ID Themselves](https://media.wired.com/photos/6904c801330eb97eb92b65c9/16:9/w_640%2Cc_limit/undefined)](https://www.wired.com/story/fbi-warns-of-criminals-posing-as-ice-urges-agents-to-id-themselves/#intcid=_wired-article-bottom-recirc_4e80911f-430c-4a0b-9a40-5af39e2be28d_roberta-similarity1)
-[FBI Warns of Criminals Posing as ICE, Urges Agents to ID Themselves](https://www.wired.com/story/fbi-warns-of-criminals-posing-as-ice-urges-agents-to-id-themselves/#intcid=_wired-article-bottom-recirc_4e80911f-430c-4a0b-9a40-5af39e2be28d_roberta-similarity1)
+[![FBI Warns of Criminals Posing as ICE, Urges Agents to ID Themselves](https://media.wired.com/photos/6904c801330eb97eb92b65c9/16:9/w_640%2Cc_limit/undefined)](https://www.wired.com/story/fbi-warns-of-criminals-posing-as-ice-urges-agents-to-id-themselves/#intcid=_wired-article-bottom-recirc_5a132013-df7e-4e5a-81e7-ff080f1148cc_roberta-similarity1)
+[FBI Warns of Criminals Posing as ICE, Urges Agents to ID Themselves](https://www.wired.com/story/fbi-warns-of-criminals-posing-as-ice-urges-agents-to-id-themselves/#intcid=_wired-article-bottom-recirc_5a132013-df7e-4e5a-81e7-ff080f1148cc_roberta-similarity1)
 In a bulletin to law enforcement agencies, the FBI said criminal impersonators are exploiting ICE’s image and urged nationwide coordination to distinguish real operations from fakes.
 Dell Cameron
-[![Donald Trump Is the First AI Slop President](https://media.wired.com/photos/690190863e7fbc1c430c368d/16:9/w_640%2Cc_limit/undefined)](https://www.wired.com/story/donald-trump-ai-slop-white-house/#intcid=_wired-article-bottom-recirc_4e80911f-430c-4a0b-9a40-5af39e2be28d_roberta-similarity1)
-[Donald Trump Is the First AI Slop President](https://www.wired.com/story/donald-trump-ai-slop-white-house/#intcid=_wired-article-bottom-recirc_4e80911f-430c-4a0b-9a40-5af39e2be28d_roberta-similarity1)
+[![Donald Trump Is the First AI Slop President](https://media.wired.com/photos/690190863e7fbc1c430c368d/16:9/w_640%2Cc_limit/undefined)](https://www.wired.com/story/donald-trump-ai-slop-white-house/#intcid=_wired-article-bottom-recirc_5a132013-df7e-4e5a-81e7-ff080f1148cc_roberta-similarity1)
+[Donald Trump Is the First AI Slop President](https://www.wired.com/story/donald-trump-ai-slop-white-house/#intcid=_wired-article-bottom-recirc_5a132013-df7e-4e5a-81e7-ff080f1148cc_roberta-similarity1)
 How do AI videos end up on Donald Trump’s social media accounts? WIRED investigates.
 Jake Lahut
-[![The Inside Story of How Gen Z Toppled Nepal’s Leader and Chose a New One on Discord](https://media.wired.com/photos/690940bb23aa4e82574057ef/16:9/w_640%2Cc_limit/undefined)](https://www.wired.com/story/nepal-discord-gen-z-protests-vote-prime-minister-election/#intcid=_wired-article-bottom-recirc_4e80911f-430c-4a0b-9a40-5af39e2be28d_roberta-similarity1)
-[The Inside Story of How Gen Z Toppled Nepal’s Leader and Chose a New One on Discord](https://www.wired.com/story/nepal-discord-gen-z-protests-vote-prime-minister-election/#intcid=_wired-article-bottom-recirc_4e80911f-430c-4a0b-9a40-5af39e2be28d_roberta-similarity1)
+[![The Inside Story of How Gen Z Toppled Nepal’s Leader and Chose a New One on Discord](https://media.wired.com/photos/690940bb23aa4e82574057ef/16:9/w_640%2Cc_limit/undefined)](https://www.wired.com/story/nepal-discord-gen-z-protests-vote-prime-minister-election/#intcid=_wired-article-bottom-recirc_5a132013-df7e-4e5a-81e7-ff080f1148cc_roberta-similarity1)
+[The Inside Story of How Gen Z Toppled Nepal’s Leader and Chose a New One on Discord](https://www.wired.com/story/nepal-discord-gen-z-protests-vote-prime-minister-election/#intcid=_wired-article-bottom-recirc_5a132013-df7e-4e5a-81e7-ff080f1148cc_roberta-similarity1)
 The revolution started on social media. It ended with protests, violence, and an online poll to pick the new prime minister.
 Tulsi Rauniyar
-[![Zohran Mamdani’s Campaign Figured Out How to Channel Fandom](https://media.wired.com/photos/690924ebf2d05e36d6d31f3c/16:9/w_640%2Cc_limit/undefined)](https://www.wired.com/story/zohran-mamdani-campaign-fandom/#intcid=_wired-article-bottom-recirc_4e80911f-430c-4a0b-9a40-5af39e2be28d_roberta-similarity1)
-[Zohran Mamdani’s Campaign Figured Out How to Channel Fandom](https://www.wired.com/story/zohran-mamdani-campaign-fandom/#intcid=_wired-article-bottom-recirc_4e80911f-430c-4a0b-9a40-5af39e2be28d_roberta-similarity1)
+[![Zohran Mamdani’s Campaign Figured Out How to Channel Fandom](https://media.wired.com/photos/690924ebf2d05e36d6d31f3c/16:9/w_640%2Cc_limit/undefined)](https://www.wired.com/story/zohran-mamdani-campaign-fandom/#intcid=_wired-article-bottom-recirc_5a132013-df7e-4e5a-81e7-ff080f1148cc_roberta-similarity1)
+[Zohran Mamdani’s Campaign Figured Out How to Channel Fandom](https://www.wired.com/story/zohran-mamdani-campaign-fandom/#intcid=_wired-article-bottom-recirc_5a132013-df7e-4e5a-81e7-ff080f1148cc_roberta-similarity1)
 Much of the content about Mamdani online hasn’t come from his campaign or the dozens of political influencers invited to cover it. It has also come from fans.
 Makena Kelly
-[![No, SNAP Benefits Aren’t Mostly Used by Immigrants](https://media.wired.com/photos/6902226b1f8a7b4ed47cf7ae/16:9/w_640%2Cc_limit/undefined)](https://www.wired.com/story/disinformation-conspiracy-theories-snap-benefits/#intcid=_wired-article-bottom-recirc_4e80911f-430c-4a0b-9a40-5af39e2be28d_roberta-similarity1)
-[No, SNAP Benefits Aren’t Mostly Used by Immigrants](https://www.wired.com/story/disinformation-conspiracy-theories-snap-benefits/#intcid=_wired-article-bottom-recirc_4e80911f-430c-4a0b-9a40-5af39e2be28d_roberta-similarity1)
+[![No, SNAP Benefits Aren’t Mostly Used by Immigrants](https://media.wired.com/photos/6902226b1f8a7b4ed47cf7ae/16:9/w_640%2Cc_limit/undefined)](https://www.wired.com/story/disinformation-conspiracy-theories-snap-benefits/#intcid=_wired-article-bottom-recirc_5a132013-df7e-4e5a-81e7-ff080f1148cc_roberta-similarity1)
+[No, SNAP Benefits Aren’t Mostly Used by Immigrants](https://www.wired.com/story/disinformation-conspiracy-theories-snap-benefits/#intcid=_wired-article-bottom-recirc_5a132013-df7e-4e5a-81e7-ff080f1148cc_roberta-similarity1)
 SNAP benefits are set to run out on Saturday. Far-right influencers and extremists are incorrectly claiming that immigrants are the main recipients of food stamps.
 David Gilbert
-[![Scam Ads Are Flooding Social Media. These Former Meta Staffers Have a Plan](https://media.wired.com/photos/690bf28137b8d3fe58dbe1ed/16:9/w_640%2Cc_limit/undefined)](https://www.wired.com/story/scam-ads-are-flooding-social-media-these-former-meta-staffers-have-a-plan/#intcid=_wired-article-bottom-recirc_4e80911f-430c-4a0b-9a40-5af39e2be28d_roberta-similarity1)
-[Scam Ads Are Flooding Social Media. These Former Meta Staffers Have a Plan](https://www.wired.com/story/scam-ads-are-flooding-social-media-these-former-meta-staffers-have-a-plan/#intcid=_wired-article-bottom-recirc_4e80911f-430c-4a0b-9a40-5af39e2be28d_roberta-similarity1)
+[![Scam Ads Are Flooding Social Media. These Former Meta Staffers Have a Plan](https://media.wired.com/photos/690bf28137b8d3fe58dbe1ed/16:9/w_640%2Cc_limit/undefined)](https://www.wired.com/story/scam-ads-are-flooding-social-media-these-former-meta-staffers-have-a-plan/#intcid=_wired-article-bottom-recirc_5a132013-df7e-4e5a-81e7-ff080f1148cc_roberta-similarity1)
+[Scam Ads Are Flooding Social Media. These Former Meta Staffers Have a Plan](https://www.wired.com/story/scam-ads-are-flooding-social-media-these-former-meta-staffers-have-a-plan/#intcid=_wired-article-bottom-recirc_5a132013-df7e-4e5a-81e7-ff080f1148cc_roberta-similarity1)
 Rob Leathern and Rob Goldman, who both worked at Meta, are launching a new nonprofit that aims to bring transparency to an increasingly opaque, scam-filled social media ecosystem.
 Craig Silverman
-[![OpenAI Locks Down San Francisco Offices Following Alleged Threat From Activist](https://media.wired.com/photos/6920edd094a09f9b9ef47d2e/16:9/w_640%2Cc_limit/undefined)](https://www.wired.com/story/openai-office-lockdown-threat-san-francisco/#intcid=_wired-article-bottom-recirc_4e80911f-430c-4a0b-9a40-5af39e2be28d_roberta-similarity1)
-[OpenAI Locks Down San Francisco Offices Following Alleged Threat From Activist](https://www.wired.com/story/openai-office-lockdown-threat-san-francisco/#intcid=_wired-article-bottom-recirc_4e80911f-430c-4a0b-9a40-5af39e2be28d_roberta-similarity1)
+[![OpenAI Locks Down San Francisco Offices Following Alleged Threat From Activist](https://media.wired.com/photos/6920edd094a09f9b9ef47d2e/16:9/w_640%2Cc_limit/undefined)](https://www.wired.com/story/openai-office-lockdown-threat-san-francisco/#intcid=_wired-article-bottom-recirc_5a132013-df7e-4e5a-81e7-ff080f1148cc_roberta-similarity1)
+[OpenAI Locks Down San Francisco Offices Following Alleged Threat From Activist](https://www.wired.com/story/openai-office-lockdown-threat-san-francisco/#intcid=_wired-article-bottom-recirc_5a132013-df7e-4e5a-81e7-ff080f1148cc_roberta-similarity1)
 A message on OpenAI’s internal Slack claimed the activist in question had expressed interest in “causing physical harm to OpenAI employees.”
 Maxwell Zeff
-[![It’s Been a Year Since Trump Was Elected. Democrats Still Don’t Get the Internet](https://media.wired.com/photos/69091e36a8dd028a75d3a6ca/16:9/w_640%2Cc_limit/undefined)](https://www.wired.com/story/do-democrats-get-the-internet-yet/#intcid=_wired-article-bottom-recirc_4e80911f-430c-4a0b-9a40-5af39e2be28d_roberta-similarity1)
-[It’s Been a Year Since Trump Was Elected. Democrats Still Don’t Get the Internet](https://www.wired.com/story/do-democrats-get-the-internet-yet/#intcid=_wired-article-bottom-recirc_4e80911f-430c-4a0b-9a40-5af39e2be28d_roberta-similarity1)
+[![It’s Been a Year Since Trump Was Elected. Democrats Still Don’t Get the Internet](https://media.wired.com/photos/69091e36a8dd028a75d3a6ca/16:9/w_640%2Cc_limit/undefined)](https://www.wired.com/story/do-democrats-get-the-internet-yet/#intcid=_wired-article-bottom-recirc_5a132013-df7e-4e5a-81e7-ff080f1148cc_roberta-similarity1)
+[It’s Been a Year Since Trump Was Elected. Democrats Still Don’t Get the Internet](https://www.wired.com/story/do-democrats-get-the-internet-yet/#intcid=_wired-article-bottom-recirc_5a132013-df7e-4e5a-81e7-ff080f1148cc_roberta-similarity1)
 “I can’t, for the life of me, figure out why we are still so rigid and moderating everything when we have nothing to lose for the first time,” a Democratic digital strategist tells WIRED.
 Makena Kelly
-[![Pornhub Is Urging Tech Giants to Enact Device-Based Age Verification](https://media.wired.com/photos/691b725179b8ea64196b38cf/16:9/w_640%2Cc_limit/undefined)](https://www.wired.com/story/pornhub-is-urging-tech-giants-to-enact-device-based-age-verification/#intcid=_wired-article-bottom-recirc_4e80911f-430c-4a0b-9a40-5af39e2be28d_roberta-similarity1)
-[Pornhub Is Urging Tech Giants to Enact Device-Based Age Verification](https://www.wired.com/story/pornhub-is-urging-tech-giants-to-enact-device-based-age-verification/#intcid=_wired-article-bottom-recirc_4e80911f-430c-4a0b-9a40-5af39e2be28d_roberta-similarity1)
+[![Pornhub Is Urging Tech Giants to Enact Device-Based Age Verification](https://media.wired.com/photos/691b725179b8ea64196b38cf/16:9/w_640%2Cc_limit/undefined)](https://www.wired.com/story/pornhub-is-urging-tech-giants-to-enact-device-based-age-verification/#intcid=_wired-article-bottom-recirc_5a132013-df7e-4e5a-81e7-ff080f1148cc_roberta-similarity1)
+[Pornhub Is Urging Tech Giants to Enact Device-Based Age Verification](https://www.wired.com/story/pornhub-is-urging-tech-giants-to-enact-device-based-age-verification/#intcid=_wired-article-bottom-recirc_5a132013-df7e-4e5a-81e7-ff080f1148cc_roberta-similarity1)
 The company sent letters to Apple, Google, and Microsoft pushing for an alternative way to keep minors from viewing porn, as US and UK laws have caused its traffic to plummet.
 Jason Parham
-[![OpenAI's Atlas Wants to Be the Web’s Tour Guide. I’m Not Convinced It Needs One](https://media.wired.com/photos/68fc1ab3582abcd215b5b4b2/16:9/w_640%2Cc_limit/undefined)](https://www.wired.com/story/web-browsers-ai-tour-guide-openai-atlas-ask-chatgpt/#intcid=_wired-article-bottom-recirc_4e80911f-430c-4a0b-9a40-5af39e2be28d_roberta-similarity1)
-[OpenAI's Atlas Wants to Be the Web’s Tour Guide. I’m Not Convinced It Needs One](https://www.wired.com/story/web-browsers-ai-tour-guide-openai-atlas-ask-chatgpt/#intcid=_wired-article-bottom-recirc_4e80911f-430c-4a0b-9a40-5af39e2be28d_roberta-similarity1)
+[![OpenAI's Atlas Wants to Be the Web’s Tour Guide. I’m Not Convinced It Needs One](https://media.wired.com/photos/68fc1ab3582abcd215b5b4b2/16:9/w_640%2Cc_limit/undefined)](https://www.wired.com/story/web-browsers-ai-tour-guide-openai-atlas-ask-chatgpt/#intcid=_wired-article-bottom-recirc_5a132013-df7e-4e5a-81e7-ff080f1148cc_roberta-similarity1)
+[OpenAI's Atlas Wants to Be the Web’s Tour Guide. I’m Not Convinced It Needs One](https://www.wired.com/story/web-browsers-ai-tour-guide-openai-atlas-ask-chatgpt/#intcid=_wired-article-bottom-recirc_5a132013-df7e-4e5a-81e7-ff080f1148cc_roberta-similarity1)
 In OpenAI’s new Atlas browser, the Ask ChatGPT sidebar is moderately helpful at best. Sometimes, it’s confusingly wrong.
 Reece Rogers
-[![Zohran Mamdani Just Inherited the NYPD Surveillance State](https://media.wired.com/photos/690a4d002399c395eb29810d/16:9/w_640%2Cc_limit/undefined)](https://www.wired.com/story/welcome-to-mamdanis-surveillance-state/#intcid=_wired-article-bottom-recirc_4e80911f-430c-4a0b-9a40-5af39e2be28d_roberta-similarity1)
-[Zohran Mamdani Just Inherited the NYPD Surveillance State](https://www.wired.com/story/welcome-to-mamdanis-surveillance-state/#intcid=_wired-article-bottom-recirc_4e80911f-430c-4a0b-9a40-5af39e2be28d_roberta-similarity1)
+[![Zohran Mamdani Just Inherited the NYPD Surveillance State](https://media.wired.com/photos/690a4d002399c395eb29810d/16:9/w_640%2Cc_limit/undefined)](https://www.wired.com/story/welcome-to-mamdanis-surveillance-state/#intcid=_wired-article-bottom-recirc_5a132013-df7e-4e5a-81e7-ff080f1148cc_roberta-similarity1)
+[Zohran Mamdani Just Inherited the NYPD Surveillance State](https://www.wired.com/story/welcome-to-mamdanis-surveillance-state/#intcid=_wired-article-bottom-recirc_5a132013-df7e-4e5a-81e7-ff080f1148cc_roberta-similarity1)
 In addition to affordability, New York City’s mayor-elect will be forced to reckon with the NYPD’s sweeping mass surveillance operations.
 Ali Winston
 [![WIRED](https://www.wired.com/verso/static/wired-us/assets/logo-reverse.svg)](https://www.wired.com/)
